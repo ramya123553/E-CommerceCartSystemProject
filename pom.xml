@@ -9,10 +9,10 @@
 		<version>2.6.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jtspringproject</groupId>
-	<artifactId>JtSpringProject</artifactId>
+	<groupId>com.example</groupId>
+	<artifactId>e-commerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>JtSpringProject</name>
+	<name>EcommerceProject</name>
 	<description>Spring project for Java Technology</description>
 	<properties>
 		<java.version>11</java.version>
