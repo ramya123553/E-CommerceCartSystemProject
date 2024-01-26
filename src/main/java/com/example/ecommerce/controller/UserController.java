@@ -159,7 +159,7 @@ public class UserController{
 		public String Test(Model model)
 		{
 			System.out.println("test page");
-			model.addAttribute("author","jay gajera");
+			model.addAttribute("author","ram");
 			model.addAttribute("id",40);
 			
 			List<String> friends = new ArrayList<String>();
@@ -178,7 +178,7 @@ public class UserController{
 			System.out.println("test page");
 			//create modelandview object
 			ModelAndView mv=new ModelAndView();
-			mv.addObject("name","jay gajera 17");
+			mv.addObject("name","ram 22");
 			mv.addObject("id",40);
 			mv.setViewName("test2");
 			
